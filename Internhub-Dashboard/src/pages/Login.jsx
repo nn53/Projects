@@ -28,7 +28,7 @@ export default function Login() {
         {/* Logo */}
         <div className="flex justify-center mb-[2px]">
           <img
-            src="/src/assets/logo.png"
+            src="/public/assets/logo.png"
             alt="InternHub Logo"
             className="h-20"
           />

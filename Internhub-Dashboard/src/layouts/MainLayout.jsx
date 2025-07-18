@@ -17,7 +17,7 @@ export default function MainLayout() {
         <div className="flex items-center space-x-4">
           <Bell className="text-white" />
           <img
-            src="/src/assets/user.png"
+            src="/public/assets/user.png"
             alt="User"
             className="h-8 w-8 rounded-full border-2 border-white"
           />
