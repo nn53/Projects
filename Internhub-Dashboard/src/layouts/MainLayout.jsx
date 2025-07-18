@@ -7,7 +7,7 @@ export default function MainLayout() {
       <header className="bg-[#F59E0B] px-6 py-3 flex justify-between items-center shadow">
         <div className="flex items-center space-x-2">
           <img
-            src="/src/assets/logo.png"
+            src="/assets/logo.png"
             alt="InternHub Logo"
             className="h-8 w-8 rounded-full border-2 border-white"
           />
@@ -17,7 +17,7 @@ export default function MainLayout() {
         <div className="flex items-center space-x-4">
           <Bell className="text-white" />
           <img
-            src="/public/assets/user.png"
+            src="/assets/user.png"
             alt="User"
             className="h-8 w-8 rounded-full border-2 border-white"
           />
